@@ -205,7 +205,7 @@ padding-bottom: .5rem;
 }
 
 .home{
-  min-height:30vh;
+  min-height:60vh;
   display: flex;
   align-items: center;
   background: url(../home-img.jpeg) no-repeat;
